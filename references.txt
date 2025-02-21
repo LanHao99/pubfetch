@@ -1,0 +1,14 @@
+this is the example for references.txt
+
+21. COLVARD, D.S., E.F. ERIKSEN, P.E. KEETING, et al. 1989. Identification of androgen
+receptors in normal human osteoblast-like cells. Proc. Natl. Acad. Sci. USA 86:
+854–857.
+
+22. DARWISH, H.M. & H.F. DELUCA. 1996. Recent advances in the molecular biology
+of vitamin D action. Prog. Nucleic Acid Res. Mol. Biol. 53: 321–344.
+
+23. KINDMARK, A., H. TORMA, A. JOHANSSON, et al. 1993. Reverse transcriptionpolymerase chain reaction assay demonstrates that the 9-cis retinoic acid receptor
+alpha is expressed in human osteoblasts. Biochem. Biophys. Res. Commun. 192:
+1367–1372.
+
+24. TEITELBAUM, S.L. 2000. Bone resorption by osteoclasts. Science 289: 1504–1508.
